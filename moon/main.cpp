@@ -778,7 +778,7 @@ void College() {
 		.5, .5,
 		255, 0, 0);
 
-	print("Home -> FCISCU -> OTHMAN -> Home -> FCISCU -> OTHMAN -> Home -> FCISCU -> OTHMAN",
+	print("Home -> FCISCU -> ITI -> Home -> FCISCU -> ITI -> Home -> FCISCU -> ITI",
 		1, 1, 1, CO_subtitle_1_appear, 80, 30, .14, .14, 1);
 
 }
